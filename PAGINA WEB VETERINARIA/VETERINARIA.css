@@ -1,0 +1,89 @@
+
+  .cuerpo{
+    margin:0px;
+    padding: 0px;
+
+ }
+h1{
+ font: bold;
+ font-size: 20px;
+ font-family: Verdana, Arial, Helvetica, sans-serif;
+ }
+ h2{
+    font: bold 14px Verdana, Arial, Helvetica, sans-serif;
+ }
+ body{
+ text-align: center;
+ 
+ }
+ .cuerpo{
+    width:960px ;
+    margin: 15px auto;
+    text-align: center;
+ }
+ .encabezado{
+  background: #deb5ff;
+  border: 2px solid #591388;
+  padding: 20px;
+  text-shadow: rgb(250, 252, 250) 3px 3px 3px;
+  font-family: Verdana, arial, sans-serif;
+  font-size:12px;
+ }
+ .menu{
+     background: #e968c9;
+     padding: 5px 15px;
+     
+    
+    
+    
+    
+     
+ }
+
+ .seccion{
+    float: left;
+    width: 660px;
+    margin: 20px;
+ }
+
+ .lateral{
+    float: left;
+    width: 300px;
+    margin: 20px 0px;
+    padding: 40px;
+    background: #e773b3;
+ }
+ .pie{
+    clear: both;
+    text-align: center;
+    padding: 20px;
+    border-top: 5px solid#da46cd;
+ }
+ 
+ article{
+    background: #7951cf;
+    border: 1px solid #88137a;
+    padding: 20px;
+    margin-bottom:15px ;
+ }
+ article footer{
+    text-align: right;
+ }
+ .menu li{
+    display: inline-block;
+    list-style: none;
+    padding: 5px;
+    font:bold 14px verdana, sans-serif; 
+ }
+
+ .menu{
+   text-shadow: #dd75a9 4px 4px 4px;
+   font-family: Verdana, arial, sans-serif;
+   font-size:12px
+ }
+
+ table{
+   text-shadow: #c98dec 4px 4px 4px;
+   font-family: Verdana, arial, sans-serif;
+   font-size:12px;
+ }
